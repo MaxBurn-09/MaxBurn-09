@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaxBurn-09
 - 👀 I’m interested in cyber security projects 
-- 🌱 I’m currently learning CEHv12,OSCP
-- 📫 How to reach me @maxburn___
+- 🌱 I’m currently learning CEHv13
 
 
 <!---
